@@ -1,4 +1,4 @@
-## Files and information related to FSU's USEDit project
+## Files and information related to the USEDit project
 
 This site is still under development. Please see the Wiki.
 
