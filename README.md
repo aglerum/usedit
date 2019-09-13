@@ -1,5 +1,5 @@
 ## Files and information related to the USEDit project
 
-This site is still under development. Please see the Wiki.
+This repository is still under development. Please see the Wiki.
 
-[USEDit website](http://myweb.fsu.edu/aglerum/usedit.html)
+For information about the project, please see the [USEDit website](http://myweb.fsu.edu/aglerum/usedit.html)
