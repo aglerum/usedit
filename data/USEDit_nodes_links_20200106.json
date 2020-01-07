@@ -1,6 +1,10 @@
 {
     "nodes": [
         {
+            "id": "http://www.w3.org/2002/07/owl#Thing",
+            "name": "Thing"
+        },
+        {
             "id": "http://www.usedit.org/ontology/usedit:class000001538",
             "name": "AATI"
         },
