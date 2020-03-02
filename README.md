@@ -2,4 +2,4 @@
 
 This repository is still under development. Please see the Wiki.
 
-For information about the project, please see the [USEDit website](http://myweb.fsu.edu/aglerum/usedit.html)
+For information about the project, please see the [usedit.io](http://usedit.io).
